@@ -1,0 +1,2 @@
+observed_auc,n_permutations,null_auc_mean,null_auc_std,empirical_p,significant
+0.9659,100,0.4899,0.2062,0.02,True

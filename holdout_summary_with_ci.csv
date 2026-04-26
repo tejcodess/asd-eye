@@ -1,0 +1,6 @@
+metric,value,ci_lower,ci_upper
+auc,1.0,1.0,1.0
+sens,1.0,1.0,1.0
+spec,1.0,1.0,1.0
+f1,1.0,1.0,1.0
+acc,1.0,1.0,1.0

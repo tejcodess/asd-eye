@@ -1,0 +1,16 @@
+feature,perm_imp_mean,perm_imp_std
+fix_rate_per_min,0.1392,0.0044
+sac_rate_per_min,0.0727,0.0036
+fix_count,0.0559,0.0032
+fix_seq_norm,0.0483,0.002
+sac_count,0.0402,0.0019
+blink_rate_per_min,0.024,0.0023
+blink_long_ratio,0.0225,0.0029
+fix_dur_mean_ms,0.0153,0.0009
+sac_fix_ratio,0.0116,0.001
+sac_amplitude_mean,0.011,0.0003
+fix_dur_std_ms,0.0109,0.0005
+fix_dur_max_ms,0.0092,0.0005
+fix_dur_cv,0.0083,0.0003
+fix_dispersion_mean,0.0024,0.0002
+gaze_x_mean,0.0023,0.0002
